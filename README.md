@@ -18,7 +18,8 @@
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img align="center" alt="react" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
 </div><br/>
 
 Apaixonado por tecnologia, programação e desenvolvimento tecnologico em geral.
